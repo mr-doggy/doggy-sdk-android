@@ -1,0 +1,10 @@
+
+# IdentityRoleDtoListResultDto
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**items** | [**kotlin.collections.List&lt;IdentityRoleDto&gt;**](IdentityRoleDto.md) |  |  [optional]
+
+
+
